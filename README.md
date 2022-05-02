@@ -13,5 +13,5 @@ npm i
 2. Rodar com o servidor utilizando o nodemon
 
 ```
-nodemon index.js
+npm start
 ```
