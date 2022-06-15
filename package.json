@@ -2,10 +2,9 @@
   "name": "Tessera",
   "version": "1.0.0",
   "description": "Tessera App",
-  "main": "D:/Tessera/TesseraAPI/Infrastructure/MongoDB/connection.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon D:/Tessera/TesseraAPI/Infrastructure/MongoDB/connection.js localhost 3000"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,8 +18,9 @@
   },
   "homepage": "https://github.com/BPernes/Tessera#readme",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "express": "^4.18.1",
-    "mongoose": "^6.3.1",
+    "mongoose": "^6.3.2",
     "nodemon": "^2.0.16"
   }
 }

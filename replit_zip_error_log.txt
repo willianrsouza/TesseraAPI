@@ -1,1 +1,12 @@
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2022-05-02T01:37:47Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/.bin/is-ci","time":"2022-06-14T00:54:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/.bin/mime","time":"2022-06-14T00:54:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/.bin/nodemon","time":"2022-06-14T00:54:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/.bin/nodetouch","time":"2022-06-14T00:54:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/.bin/nopt","time":"2022-06-14T00:54:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/.bin/rc","time":"2022-06-14T00:54:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/.bin/semver","time":"2022-06-14T00:54:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/make-dir/node_modules/.bin/semver","time":"2022-06-14T00:54:13Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/package-json/node_modules/.bin/semver","time":"2022-06-14T00:54:14Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/semver-diff/node_modules/.bin/semver","time":"2022-06-14T00:54:15Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file TesseraAPI/node_modules/update-notifier/node_modules/.bin/semver","time":"2022-06-14T00:54:15Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2022-06-14T00:54:15Z"}
